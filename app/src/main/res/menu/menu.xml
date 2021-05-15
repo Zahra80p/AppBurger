@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/mail"
+        android:title="Email" />
+    <item
+        android:icon="@drawable/heart"
+        android:title="Faverite" />
+    <item
+        android:icon="@drawable/plus"
+        android:title="Add" />
+    <item
+        android:icon="@drawable/crat"
+        android:title="Shopping Baskets" />
+    <item
+        android:icon="@drawable/user"
+        android:title="Profile" />
+</menu>
